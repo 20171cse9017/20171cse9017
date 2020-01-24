@@ -5,8 +5,8 @@ void main()
 {
     int a,b,c,d,e;
     {
+        c=d;
     printf("welcome rachana\n");
-        print
     }   
 }
 
