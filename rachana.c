@@ -3,9 +3,10 @@
 
 void main()
 {
-    int a,b,c;
+    int a,b,c,d,e;
     {
     printf("welcome rachana\n");
+        print
     }   
 }
 
