@@ -3,5 +3,10 @@
 
 void main()
 {
+    int a;
+    {
     printf("welcome rachana\n");
+    }   
 }
+
+
