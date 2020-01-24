@@ -3,7 +3,7 @@
 
 void main()
 {
-    int a;
+    int a,b;
     {
     printf("welcome rachana\n");
     }   
